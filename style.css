@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+::selection {
+    background: #ed0569;
+    color: #e6e6e6;
+}
 html, body {
     height: 100%;
     width: 100%;
